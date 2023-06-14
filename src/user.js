@@ -74,7 +74,7 @@ function User() {
         type="button"
         className="btn btn-primary"
         onClick={handleNext}
-        disabled={skip === 100}
+        disabled={skip === 95}
         style={{ float: "right" }}
       >
         Next
